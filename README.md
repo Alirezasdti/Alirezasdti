@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alirezasdti
 - 👀 I’m interested in Back-end web development
 - 🌱 I’m currently learning Django
-- 📫 How to reach me via alireza.sdtim@gmail.com 
+- 📫 Reach me via alireza.sdtim@gmail.com 
 
 <!---
 Alirezasdti/Alirezasdti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
