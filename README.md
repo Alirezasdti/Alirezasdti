@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alirezasdti
+- 👋 Hi, I’m @Alireza
 - 👀 I’m interested in Back-end web development
 - 🌱 I’m currently learning Django
 - 📫 Reach me via alireza.sdtim@gmail.com 
